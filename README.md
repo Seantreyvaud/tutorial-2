@@ -2,4 +2,7 @@
 Group 14
 
 Name:
-- Sean
+-Sean
+-Conor
+-Kevin
+-Oisin
