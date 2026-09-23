@@ -1,7 +1,7 @@
 # tutorial-2
 Group 14
 
-Name:
+Names:
 -Sean
 -Conor
 -Kevin
