@@ -1,4 +1,8 @@
 # tutorial-2
+Group 14
 
-name:
--conor
+Name:
+-Sean
+-Conor
+-Kevin
+-Oisin
